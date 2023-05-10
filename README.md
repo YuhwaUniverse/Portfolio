@@ -21,7 +21,7 @@
  
  #### 1) The bug was found during the sign-up test on the Starbucks website. May.12.2023.
  #### 2) The bug report is designed as a webpage format using HTML and CSS.
- #### 3) The style of the bug report is adopted from the bug report style in JIRA.
+ #### 3) The bug report is designed to resemble a Jira bug report pageS.
  #### 3) The bug's prioiry is lowest and the bug's severity is low. 
  #### 4) [The link](https://yuhwauniverse.github.io/webhostingpage/) is included in the first row to view the bug report in a web page format. <br><br> 
 

@@ -4,7 +4,8 @@
 >  **1. Test Cases<br>**
 >  &nbsp;&nbsp; &nbsp;Sing up for the Starbucks homepage <br><br>
 >  **2. Bug Report <br>**
->  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered <br><br>
+>  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field 
+>  &nbsp; &nbsp; when an invalid last name is entered <br><br>
 >  **3. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;SQL queries and their results <br><br>
 
@@ -23,6 +24,7 @@
  #### 2) The bug report is designed as a webpage format using HTML and CSS.
  #### 3) The bug report is designed to resemble a Jira bug report pageS.
  #### 3) The bug's prioiry is lowest and the bug's severity is low. 
+ #### 3) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 4) [The link](https://yuhwauniverse.github.io/webhostingpage/) is included in the first row to view the bug report in a web page format. <br><br> 
 
 ## 3. SQL Queries and their Results 

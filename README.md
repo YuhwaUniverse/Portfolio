@@ -12,13 +12,13 @@
 
 ## 1. Test Cases: 
 
-#### 1) The 'Starbucks_SignUp' test cases were personally designed in May 2023, <br> 
-#### &nbsp;&nbsp;&nbsp; with the sole purpose of including them in my project portfolio
+#### 1) The 'Starbucks_SignUp' test cases were personally designed in May 2023.
+#### 2) The sole purpose of their creation is to include them in my project portfolio.
 #### 2) The file contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
-#### 3) The test cases includes feature, scenario outlines, conditions, and examples. 
+#### 3) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 4) The test cases are written in plain English using the Gherkin language.
-#### 5) The file is saved in the feature file format.
-#### 6) Starbucks, one of the most popular brands in the U.S., is selected as the subject of these test cases. 
+#### 5) The file format is a FEATURE file. 
+#### 6) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. 
 
 <br><br>
 

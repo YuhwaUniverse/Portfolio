@@ -23,10 +23,10 @@
  #### 1) The bug was found during the sign-up test on the Starbucks website. May.12.2023.
  #### 2) The bug report is designed as a webpage format using HTML and CSS.
  #### 3) The bug report is designed to resemble the Jira bug report page.
- #### 3) The bug's prioiry is lowest and the bug's severity is low. 
- #### 3) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
- #### 4) [The link](https://yuhwauniverse.github.io/webhostingpage/) is included in the first row to view the bug report in a web page format.  
- #### 4) Or, simply download the raw file by clicking on the 'Download Raw File' button on the upper right side menu bar to view the bug report in a web page format. <br><br>
+ #### 4) The bug's prioiry is lowest and the bug's severity is low. 
+ #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
+ #### 6) To view the bug report in a web page format click [The link](https://yuhwauniverse.github.io/webhostingpage/).  
+ #### 7) Or, download the raw file by clicking on the 'Download Raw File' button on the upper right side menu bar to view the bug report in a web page format. <br><br>
 
 ## 3. SQL Queries and their Results 
  

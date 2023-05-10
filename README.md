@@ -27,7 +27,7 @@
  #### 4) The bug's prioiry is lowest and the bug's severity is low. 
  #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).  
- #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the bug report code page. <br><br>
+ #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page. <br><br>
 
 ## 3. SQL Queries and their Results 
  

@@ -22,7 +22,7 @@
  
  #### 1) The bug was found during the sign-up test on the Starbucks website. May.12.2023.
  #### 2) The bug report is designed as a webpage format using HTML and CSS.
- #### 3) The bug report is designed to resemble a Jira bug report pageS.
+ #### 3) The bug report is designed to resemble the Jira bug report page.
  #### 3) The bug's prioiry is lowest and the bug's severity is low. 
  #### 3) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 4) [The link](https://yuhwauniverse.github.io/webhostingpage/) is included in the first row to view the bug report in a web page format. <br><br> 
@@ -31,4 +31,10 @@
  
  #### 1) The data model contains 5 tables: Supplier, Customer, Product, Orderitem, Order.
  #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
-
+ #### 3) DML, DDL, and Table Join queries are performed.
+ #### 4) Entity Relationship Diagram. <br>
+ <Img width="80%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/>
+ 
+ 
+ 
+ 

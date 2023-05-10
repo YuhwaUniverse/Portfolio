@@ -12,8 +12,7 @@
 
 ## 1. Test Cases: 
 
-#### 1) The 'Starbucks_signup' test cases were personally designed by myself in May 2023, with the sole purpose of 
-#### &nbsp;&nbsp;&nbsp; including them in my project portfolio
+#### 1) The 'Starbucks_signup' test cases were personally designed by myself in May 2023, with the sole purpose of including them in my project portfolio
 #### 2) The file contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
 #### 3) The test cases includes feature, scenario outlines, conditions, and examples. 
 #### 4) The test cases are written in plain English using the Gherkin language.
@@ -29,7 +28,7 @@
  #### 3) The bug report is designed to resemble the Jira bug report page.
  #### 4) The bug's prioiry is lowest and the bug's severity is low. 
  #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
- #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).  
+ #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).
  #### &nbsp;&nbsp;&nbsp;  Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page. <br><br>
 
 ## 3. SQL Queries and their Results 

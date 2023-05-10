@@ -3,7 +3,6 @@ Feature: Sign up for Starbucks homepage
          As a user, i want to sign up for the Starbucks homepage (https://www.starbucks.com/)  
          so that i can access its services 
 
-
      Scenario Outline: Successful sign up with valid credentials    
          Given I am on the Starbucks homepage
          When I click on the "Join now" button

@@ -5,7 +5,7 @@
 >  &nbsp;&nbsp; &nbsp;Sing up for the Starbucks homepage <br><br>
 >  **2. Bug Report <br>**
 >  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | <br>
->  &nbsp;&nbsp; Error message appears only under the first name field when an invalid last name is entered <br><br>
+>  &nbsp;&nbsp;&nbsp; Error message appears only under the first name field when an invalid last name is entered <br><br>
 >  **3. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;SQL queries and their results <br><br>
 

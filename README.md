@@ -31,7 +31,7 @@
 
 ## 3. SQL Queries and their Results 
  
- #### 1) The data model contains 5 tables: Supplier, Customer, Product, Orderitem, Order.
+ #### 1) The data model contains 5 tables: Supplier, Customer, Product, Order item, Order.
  #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
  #### 3) DML, DDL, and Table Join queries are performed.
  #### 4) Entity Relationship Diagram. <br>

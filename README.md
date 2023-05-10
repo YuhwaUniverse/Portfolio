@@ -37,7 +37,7 @@
  #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
  #### 3) DML, DDL, and Table Join queries are performed.
  #### 4) These SQL queries are designed by editing and applying the problems in the webpage where i downloaded the database, 
- #### &nbsp;&nbsp; &nbsp; with the sole purpose to show the basic knowledge of RDBM using SQL queries.
+ #### &nbsp;&nbsp;&nbsp; with the sole purpose to show the basic knowledge of RDBM using SQL queries.
  #### 5) Entity Relationship Diagram. <br>
  <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/>
  

@@ -1,6 +1,7 @@
 # Portfoilo 
 
  #### This portfolio is designed to demonstrate my possibilities and capabilities as an entry-level software QA tester <br><br>
+ 
 >  **1. Test Cases<br>**
 >  &nbsp;&nbsp; &nbsp;Sing up for the Starbucks homepage <br><br>
 >  **2. Bug Report <br>**
@@ -26,7 +27,7 @@
  #### 4) The bug's prioiry is lowest and the bug's severity is low. 
  #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 6) To view the bug report in a web page format click [The link](https://yuhwauniverse.github.io/webhostingpage/).  
- #### 7) Or, download the raw file by clicking on the 'Download Raw File' button on the upper right side menu bar to view the bug report in a web page format. <br><br>
+ #### 7) Or, download the raw file by clicking on the 'Download Raw File' button on the upper right side menu bar. <br><br>
 
 ## 3. SQL Queries and their Results 
  

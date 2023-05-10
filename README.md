@@ -12,12 +12,15 @@
 
 ## 1. Test Cases: 
 
-#### 1) The file contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
-#### 2) The test cases includes feature, scenario outlines, conditions, and examples. 
-#### 3) The test cases are written in plain English using the Gherkin language.
-#### 4) The file is saved in the feature file format.
-#### 5) Starbucks, one of the most popular brands in the U.S., has been selected as the subject of these test cases. <br><br>
+#### 1) The 'Starbucks_signup' test cases were personally designed by myself in May 2023, 
+#### &nbsp;&nbsp; with the sole purpose of including them in my project portfolio
+#### 2) The file contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
+#### 3) The test cases includes feature, scenario outlines, conditions, and examples. 
+#### 4) The test cases are written in plain English using the Gherkin language.
+#### 5) The file is saved in the feature file format.
+#### 6) Starbucks, one of the most popular brands in the U.S., has been selected as the subject of these test cases. 
 
+<br><br>
 
 ## 2. Bug Report
  
@@ -27,7 +30,7 @@
  #### 4) The bug's prioiry is lowest and the bug's severity is low. 
  #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).  
- #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page. <br><br>
+ #### &nbsp;&nbsp; Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page. <br><br>
 
 ## 3. SQL Queries and their Results 
  
@@ -36,7 +39,6 @@
  #### 3) DML, DDL, and Table Join queries are performed.
  #### 4) Entity Relationship Diagram. <br>
  <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/>
- 
- 
- 
+ #### 5) These SQL queries are designed by editing and applying the problems in the webpage where i downloaded the database, 
+ #### &nbsp;&nbsp; with the sole purpose to show the basic knowledge of RDBM using SQL queries.
  

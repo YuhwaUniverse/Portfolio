@@ -25,7 +25,8 @@
  #### 3) The bug report is designed to resemble the Jira bug report page.
  #### 3) The bug's prioiry is lowest and the bug's severity is low. 
  #### 3) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
- #### 4) [The link](https://yuhwauniverse.github.io/webhostingpage/) is included in the first row to view the bug report in a web page format. <br><br> 
+ #### 4) [The link](https://yuhwauniverse.github.io/webhostingpage/) is included in the first row to view the bug report in a web page format.  
+ #### 4) Or, simply download the raw file by clicking on the 'Download Raw File' button on the upper right side menu bar to view the bug report in a web page format. <br><br>
 
 ## 3. SQL Queries and their Results 
  
@@ -33,7 +34,7 @@
  #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
  #### 3) DML, DDL, and Table Join queries are performed.
  #### 4) Entity Relationship Diagram. <br>
- <Img width="80%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/>
+ <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/>
  
  
  

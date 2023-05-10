@@ -6,7 +6,7 @@
 >  **2. Bug Report <br>**
 >  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered <br><br>
 >  **3. SQL <br>**
->  &nbsp;&nbsp; &nbsp;SQL queries and thier results <br><br>
+>  &nbsp;&nbsp; &nbsp;SQL queries and their results <br><br>
 
 ## 1. Test Cases: 
 

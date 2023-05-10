@@ -18,7 +18,7 @@
 #### 3) The test cases includes feature, scenario outlines, conditions, and examples. 
 #### 4) The test cases are written in plain English using the Gherkin language.
 #### 5) The file is saved in the feature file format.
-#### 6) Starbucks, one of the most popular brands in the U.S., has been selected as the subject of these test cases. 
+#### 6) Starbucks, one of the most popular brands in the U.S., is selected as the subject of these test cases. 
 
 <br><br>
 

@@ -1,0 +1,371 @@
+
+<!-- To view this Bug Report in a Webpage Format: https://yuhwauniverse.github.io/webhostingpage/-->
+<!-- Or follow the link included in the README.md file --> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jira Bug Report</title>
+    <script>
+        function multiSelect(value){
+         if(value=="OPEN") Div.style.visibility="visible";
+         else Div.style.visibility="hidden" ;}     
+        </script>
+        <style type="text/css">
+           select, ul {font-family:Arial, Helvetica, sans-serif; height: 180px; overflow: auto; width: 200px; border: 1px solid #aeadad;color:rgb(200, 196, 196) }
+           ul {font-family: Arial, Helvetica, sans-serif; color:rgb(45, 44, 54); background-color:whitesmoke;  list-style-type: none; margin: 0; padding: 0; overflow-x: hidden;}
+           li { margin: 0; padding: 0; }
+           label {font-family: Arial, Helvetica, sans-serif; display: block; color: rgb(37, 37, 37); background-color: whitesmoke; margin: 0; padding: 0; width: 100%; }
+           label:hover { background-color: lightgrey; color: darkgray; }
+        </style>
+</head>
+
+<body>
+    <div id="header"> 
+        <br>
+        &nbsp; &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" title="Jira logo" width="250" alt="Jira logo image"/>
+        <br>
+        <br>
+
+        <h2 class="CI">Create Issue</h2> 
+        <style>
+        .CI {font-family: Arial, Helvetica, sans-serif;
+            color:rgb(45, 45, 48);
+            position: absolute;
+            margin-top: 40px;
+            margin-left: 250px;
+            float:left}
+        </style> 
+    </div>
+    
+         <form name="form1" class="form1" title="configure table">
+            <table cellpadding="0" cellspacing="0"  style="cursor:pointer" onClick="multiSelect('OPEN')">                
+              <tr>
+               <td align ="center" width="200" style=" border:1px solid; border-color:#e4dada; font-size: 14px ; background-color: rgb(223, 223, 243); 
+                 color:#343b49; font-family: Arial, Helvetica, sans-serif; font-weight:bold ;">  &#9965; &nbsp; Configure Fields</td>
+               <td><input type="button" value="▽" onclick="" style="border:2px solid;padding:3px; border-color:#aeadad; "></td>
+              </tr>
+            </table>
+
+    <div id="Div" style="position:absolute; visibility:hidden;font-size:13px;z-index:3; ">
+            <ul>
+                <br>
+                <li><input type="checkbox" name="chk1" id="chk1">Attachment</li>
+                <li><input type="checkbox" name="chk2" id="chk2">Description</li>
+                <li><input type="checkbox" name="chk3" id="chk3">Environment</li>
+                <li><input type="checkbox" name="chk4" id="chk4">Labels</li>
+                <li><input type="checkbox" name="chk5" id="chk5">Linked Issues</li>
+                <li><input type="checkbox" name="chk6" id="chk6">Priority</li>
+                <li><input type="checkbox" name="chk7" id="chk7">Sprint</li        
+            </ul>
+            <div style="padding-top:3px; padding-right: 3px;  text-align:right;">
+                <input type="button" value="Confirm" onClick="multiSelect('CLOSE')"> <input type="reset" value="Reset">
+            </form> 
+            <style>
+             .form1{position:absolute; margin-top: 45px; margin-left: 850px; background-color:aliceblue;}
+             </style>
+    </div>
+    </div>
+           
+
+    <div id="section1">
+        <br>
+        <hr class="HR">
+        <style>
+        .HR{width: 80%; position:absolute; margin-top: 80px ; margin-left: 200px; height: 2px; border:none; background-color: lightgray; z-index: index 1;}
+        </style>
+        <h4 class="project" name="project"> Project <span style="color:rgb(161, 64, 64)"> &#42; </span> </h4>
+        <style>
+        .project{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+            margin-left:360px; margin-top:105px; background-color: white; z-index: index 1; }
+        </style>            
+          
+                <select class="select" name="project options">
+                <option>Starbucks_Project</option>
+                <option>Five Guys_project</option>
+                <Option>In-N-Out Burger_Project</Option>
+            </select>
+        <style>
+            .select{box-sizing: border-box; height: 35px; width: 200px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: rgb(51, 54, 58);                    
+                    background-color:  rgb(230, 230, 236); margin-top: 95px; margin-left:480px; 
+                    padding-left: 1em;  border-color: #aeadad;   border: 1px; }
+        </style>
+    </div>
+
+    <div>
+        <h4 class="IssueType"> Issue Type <span style="color:rgb(161, 64, 64)"> &#42; </span> </h4> 
+    
+        <style>
+         .IssueType{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+         margin-left:360px;  background-color: white; }
+         </style>            
+        <select class="IssueSelect">
+        <option>Bug</option>
+        <option>Epic</option>
+        <Option>Task</Option>
+        <Option>Test</Option>
+        <Option>Story</Option>
+        </select>
+        <style>
+        .IssueSelect{box-sizing: border-box; height: 35px; width: 200px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; color: rgb(51, 54, 58);                    
+                 background-color: rgb(230, 230, 236); margin-top: 15px; margin-left:480px; z-index: index 3;
+                padding-left: 1em;  border-color: #aeadad;   border: 1px; }
+        </style>
+    </div>
+        
+    <div id="section2">
+        <hr class="HR2">
+            <style>
+            .HR2 {width: 80%; position:absolute; margin-top: 20px ; margin-left: 200px;height: 2px; border:none; background-color: lightgray; z-index: index 1; ;}
+            </style>
+        <h4 class="summary"> Summary <span style="color:rgb(161, 64, 64)"> &#42; </span> </h4>
+            <style>
+            .summary{font-family: Arial, Helvetica, sans-serif; color:#6b778c;  position:absolute; 
+             margin-left:360px; margin-top:45px; background-color: white; z-index: index 1;}
+            </style> 
+        <input type = "text" maxlength="180" class="textinput" value="Starbucks Homepage | Sign Up |Error message appears only under the first name field when an invalid last name is entered"/>
+             <style>
+            .textinput{position:absolute;  width: 600px; height:35px; border-color: #aeadad; margin-left: 480px; margin-top:40px;z-index:2;
+                 box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; font-size: 14px; }
+            </style> 
+        </div>
+        <div>
+            <h4 class="components" style="display:inline"> Component/s </h4>
+            <h7 class="none" style="display:inline"> None </h7> 
+            <style>
+             .components{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+             margin-left:360px; margin-top:105px; background-color: white; z-index: index 1;}
+        
+            </style>   
+             <style>
+            .none{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#000000;  position:absolute; 
+                margin-left:480px; margin-top:105px; background-color: white; z-index: index 1;}
+            
+            </style>          
+    </div></div>
+    <div>
+            <h4 class="description"> Description </h4>
+            <style>
+            .description{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+            margin-left:360px; margin-top:160px; background-color: white; z-index: index 1;}
+            </style>
+        
+        <br>     
+        <textarea class="textarea2" name="description" rows="15" cols="80" > 
+ Steps to Reproduce 
+
+ 1. Go to Starbucks homepage (https://www.starbucks.com/)
+ 2. Click on the "Join Now" button on the upper right corner
+ 3. Enter a valid first name in the first name field
+ 4. Enter an "invalid last name" in the last name field
+ 5. Enter a valid email address 
+ 6. Enter a valid password
+ 7. Check the box for the Terms of Use
+ 8. Click on the "Create Account" button 
+
+ Expected Result: Error message appears under the last name field
+
+ Actual Result: Error message appears only under the first name field when the last name is 
+                        incorrect 
+
+ * A screenshot is attached 
+
+        </textarea>
+        <style>
+            .textarea2{position:absolute; margin-left: 480px; margin-top: 130px; font-family: Arial, Helvetica, sans-serif; font-size: 14px;} 
+        </style>
+        </div>
+
+    <div id="section 3">
+        <h4 class="Priority"> Priority </h4> 
+        <style>
+         .Priority{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+         margin-left:360px; margin-top: 410px; background-color: white; }
+         </style>            
+        <select class="PrioritySelect">
+        <option>Lowest</option>
+        <option>Low</option>
+        <option>Medium</option>
+        <option>High</option>
+        <option>Highest</option>
+        </select>
+        <style>
+        .PrioritySelect{box-sizing: border-box; height: 35px; width: 200px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; color: rgb(51, 54, 58);                    
+                 background-color: rgb(230, 230, 236); margin-top: 400px; margin-left:480px; z-index: index 3;
+                 padding-left: 1em; border-color: #aeadad; border: 1px; }
+        </style> </div>
+    <div id="section4">
+        <h4 class="Severity"> Severity </h4>
+        <style>
+         .Severity{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+          margin-top: 25px; margin-left: 360px; background-color: white; }
+         </style>            
+        <select class="SeveritySelect">
+        <option>Low</option>
+        <option>Critical</option>
+        <option>Major</option>
+        <option>Moderate</option>
+        </select>
+        <style>
+        .SeveritySelect{box-sizing: border-box; height: 35px; width: 200px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; color: rgb(51, 54, 58);                    
+                 background-color: rgb(230, 230, 236); margin-top: 15px; margin-left:480px; z-index: index 3;
+                 padding-left: 1em; border-color: #aeadad; border: 1px; }
+        </style> </div>
+
+    <div id="section 5">
+         <h4 class="Label"> Label </h4>
+         <style>
+          .Label{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+          margin-left:360px; margin-top: 25px; background-color: white; }
+          </style> 
+        <input type = "text" maxlength="180" class="label_text" value="Starbucks, SignUp, Registration, E2E, UAT"/>
+        <style>
+       .label_text{position: absolute; width:600px; height:35px; margin-left:480px; margin-top:18px; border-color: #aeadad;  
+            box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; font-size: 14px;  }
+       </style> 
+    </div>
+    </div>
+    <div id="section 6">
+        <h4 class="Environment"> Environment </h4>
+        <style>
+            .Environment{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+            margin-left:360px; margin-top: 80px; background-color: white; }
+            </style> 
+        <textarea class="textarea3" name="environment" rows="5" cols="80" >
+ - Hardware Device: LG Gram, Laptop 
+ - OS: Microsoft Windows 11 Home
+ - Version: 10.0.22621 Build 22621
+ - Processor: 11th Gen Intel(R) Core(TM) i5-1155G7 
+ - Chrome Version: Version 113.0.5672.63 (64 bit)
+ - Tester: Tester Name
+
+        </textarea>
+        <style>
+            .textarea3{position:absolute; margin-left: 480px; margin-top: 70px; font-family: Arial, Helvetica, sans-serif; font-size: 14px;} 
+        </style>
+        <h4 class="Attachment"> Attachment </h4>
+        <style>
+            .Attachment{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+            margin-left:360px; margin-top: 190px; background-color: white; }
+            </style> 
+        <img src="https://i.postimg.cc/cLdLXkFS/Bug-Starbucks-Sign-Up-Last-Name-Error-Message-Location.png" class= "img2" title="screenshot" alt="a screenshot of a bug">
+        <p style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; margin-left: 480px;"><u><em> Uploaded: Starbucks_SignUp_Last name field_bug_screenshot</em></u></p>
+        <style>
+            .img2 {width:595px; margin-left: 480px; margin-top:180px; border-style: dotted; border-color:darkgray;}
+        </style> 
+        <h4 class="LinkedIssues"> Linked Issues </h4>
+        <style>
+            .LinkedIssues{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+            margin-left:360px; margin-top: 20px; background-color: white; }
+            </style> 
+        <select class="SLI">
+            <option>relates to</option>
+            <option>blocks</option>
+            <option>is blocked by</option>
+            <option>clones</option>
+            <option>is cloned by</option>
+            <option>duplicates</option>
+            <option>is duplicated by</option>
+            </select>
+            <style>
+            .SLI{box-sizing: border-box; height: 35px; width: 200px; font-family: Arial, Helvetica, sans-serif; font-weight:bold; color: rgb(51, 54, 58);                    
+                     background-color: rgb(230, 230, 236); margin-top: 13px; margin-left:480px; z-index: index 3;
+                     padding-left: 1em; border-color: #aeadad; border: 1px; }
+            </style>
+        </div>
+    <div id="section7">
+        <h4 class="Issues"> Issues </h4>
+            <style>
+                .Issues{font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+                margin-left:360px; margin-top: 25px; background-color: white; }
+                </style>
+            <input type = "text" maxlength="180" class="Issues_box" value="Starbucks | SignUp | Verify invalid last name returns a error message under the last name field"/>
+            <style>
+           .Issues_box{position:absolute; width:600px; height:35px; margin-left:480px; margin-top:18px; border-color: #aeadad;  
+                box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; font-size: 14px; }
+           </style> 
+        <h4 class="Sprint"> Sprint </h4>
+        <style>
+            .Sprint {font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+            margin-left:360px; margin-top: 75px; background-color: white; }
+            </style>
+
+        <input type = "text" maxlength="180" class="Sprint_box" value="SR01"/>
+        <style>
+       .Sprint_box{position:absolute; width:600px; height:35px; margin-left:480px; margin-top:65px; border-color: #aeadad;  
+            box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; font-size: 14px;}
+       </style>   
+
+       <h4 class="Date"> Report Date </h4>
+       <style>
+           .Date {font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:#6b778c;  position:absolute; 
+           margin-left:360px; margin-top: 119px; background-color: white; }
+           </style>
+
+       <input type = "text" maxlength="180" class="Date_box" value="May.12.2023"/>
+       <style>
+      .Date_box{position:absolute; width:600px; height:35px; margin-left:480px; margin-top:110px; border-color: #aeadad;  
+           box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; font-size: 14px;}
+      </style> 
+
+          <hr class="HR3">
+          <style>
+          .HR3 {width: 80%; position:absolute; margin-top: 155px ; margin-left: 200px;height: 2px; border:none; background-color: lightgray; z-index: index 1;}
+          </style>
+    </div>    
+
+    <div id="section8">
+        
+        <form action='Create-page.php'>
+        <input type='button' value="Create" onclick='alert("not a functional button")' class="CB"/>
+         </form>
+         <style>
+            .CB {font-family: Arial, Helvetica, sans-serif;
+                font-weight: bolder;
+                position: absolute;
+                margin-top: 165px;
+                margin-left: 900px;
+                box-sizing: border-box;
+                white-space: nowrap;
+                display: inline-block;
+                color:white;
+                background-color: rgb(7, 7, 122);
+                height: 2.80em;
+                padding: 6px 20px;
+                border-style: solid;
+                border-color:rgb(192, 187, 187);
+                border-width: 1px;
+                cursor: pointer;
+                z-index: 3}              
+             </style>
+        <form action='Cancel-page.php'>
+            <input type='button' value="Cancel" onclick='alert("not a functional button")' class="CC"/>
+             </form>
+             <style>
+                .CC {font-family: Arial, Helvetica, sans-serif;
+                    font-weight: bolder;
+                    position: absolute;
+                    margin-top: 165px;
+                    margin-left: 995px;
+                    box-sizing: border-box;
+                    white-space: nowrap;
+                    display: inline-block;
+                    color:rgb(23, 10, 74);
+                    background-color: rgb(255, 255, 255);
+                    height: 2.80em;
+                    padding: 6px 20px;
+                    border-style: solid;
+                    border-color:rgb(192, 187, 187);
+                    border-width: 1px;
+                    cursor: pointer;
+                    z-index: 3}              
+                 </style>
+    
+             <hr class="HR4">
+             <style>
+             .HR4 {width: 80%; position:absolute; margin-top: 250px ; margin-left: 200px; height: 2px; border:none; background-color: white; z-index: index 1;}
+             </style>
+    </div>       
+</body> 
+</html>

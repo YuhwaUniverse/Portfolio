@@ -5,8 +5,7 @@
 >  **1. Test Cases<br>**
 >  &nbsp;&nbsp; &nbsp;Sing up for the Starbucks homepage <br><br>
 >  **2. Bug Report <br>**
->  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | <br>
->  &nbsp;&nbsp;&nbsp; Error message appears only under the first name field when an invalid last name is entered <br><br>
+>  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered <br><br>
 >  **3. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;SQL queries and their results <br><br>
 
@@ -14,7 +13,7 @@
 
 #### 1) The 'Starbucks_SignUp' test cases were personally designed in May 2023.
 #### 2) The sole purpose of their creation is to include them in my project portfolio.
-#### 3) The file contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
+#### 3) This E2E test contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
 #### 4) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 5) The test cases are written in plain English using the Gherkin language.
 #### 6) The file format is a FEATURE file. 
@@ -24,7 +23,7 @@
 
 ## 2. Bug Report
  
- #### 1) The bug was found during the sign-up test on the Starbucks website. May.12.2023.
+ #### 1) The bug was found during the sign-up test on the Starbucks website. May.09.2023.
  #### 2) The bug report was designed as a webpage format using HTML and CSS.
  #### 3) The bug report was designed to resemble the Jira bug report page.
  #### 4) The bug's priority is 'lowest' and the bug's severity is 'low'. 

@@ -17,7 +17,7 @@
 #### 4) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 5) The test cases are written in plain English using the Gherkin language.
 #### 6) The file format is a FEATURE file. 
-#### 7) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br>
+#### 7) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br><br>
 
 
 ## 2. Bug Report
@@ -28,7 +28,7 @@
  #### 4) The bug's priority is 'lowest' and the bug's severity is 'low'. 
  #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).
- #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page.<br>
+ #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page.<br><br>
 
 
 ## 3. SQL Queries and their Results 
@@ -39,5 +39,5 @@
  #### 4) These SQL queries were designed by editing and applying the problems in the source webpage, 
  #### 5) The sole purpose of this SQL file is to show the basic skills of RDBM using SQL queries.
  #### 6) Entity Relationship Diagram. <br>
- <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/>
+ <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/> <br>
  

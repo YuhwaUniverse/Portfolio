@@ -1,4 +1,3 @@
-<!-- SQL queries and their results -->
 <!-- Entity Relationship Diagram is attached in the README.md file --> 
 <!-- The data model contains 5 tables (Supplier, Customer, Product, Order item, Order) -->
 

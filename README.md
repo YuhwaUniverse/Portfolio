@@ -13,7 +13,7 @@
 
 #### 1) The 'Starbucks_SignUp' test cases were personally designed in May 2023.
 #### 2) The sole purpose of their creation is to include them in my project portfolio.
-#### 3) Th E2E test contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
+#### 3) The E2E test contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
 #### 4) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 5) The test cases are written in plain English using the Gherkin language.
 #### 6) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br><br>

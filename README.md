@@ -16,8 +16,7 @@
 #### 3) Th E2E test contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
 #### 4) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 5) The test cases are written in plain English using the Gherkin language.
-#### 6) The file format is a FEATURE file. 
-#### 7) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br><br>
+#### 6) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br><br>
 
 
 ## 2. Bug Report
@@ -29,6 +28,7 @@
  #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).
  #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page.<br><br>
+
 
 
 ## 3. SQL Queries and their Results 

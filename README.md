@@ -36,7 +36,7 @@
  
  #### 1) The data model contains 5 tables: Supplier, Customer, Product, Order item, Order.
  #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
- #### 3) DML(SELECT, INSERT, UPDATe, DELETE) and Table Join queries were performed.
+ #### 3) DML(SELECT, INSERT, UPDATE, DELETE) and Table Join queries were performed.
  #### 4) These SQL queries were designed by editing and applying the problems in the source webpage, 
  #### 5) The sole purpose of this SQL file is to show the basic skills of RDBM using SQL queries.
  #### 6) Entity Relationship Diagram. <br>

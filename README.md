@@ -17,9 +17,9 @@
 #### 4) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 5) The test cases are written in plain English using the Gherkin language.
 #### 6) The file format is a FEATURE file. 
-#### 7) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. 
+#### 7) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br>
 
-<br>
+
 ## 2. Bug Report
  
  #### 1) The bug was found during the sign-up test on the Starbucks website. May.09.2023.
@@ -28,9 +28,9 @@
  #### 4) The bug's priority is 'lowest' and the bug's severity is 'low'. 
  #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
  #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).
- #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page.
+ #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page.<br>
 
-<br>
+
 ## 3. SQL Queries and their Results 
  
  #### 1) The data model contains 5 tables: Supplier, Customer, Product, Order item, Order.

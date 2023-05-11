@@ -88,7 +88,7 @@ WHERE UnitPrice >= 500 ;
 | 6  | Grandma's Boysenberry Spread | 3          | 561.01    | 12 - 8 oz jars      | 0              |
 
 
- # Get the total number of quality of Order Items 
+# Get the total number of quality of Order Items 
 
 SELECT SUM(Quantity) AS 'Total Quantity of Order_Items'
 FROM Orderitem ;

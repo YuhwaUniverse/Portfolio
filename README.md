@@ -6,7 +6,9 @@
 >  &nbsp;&nbsp; &nbsp;Sing up for the Starbucks homepage <br><br>
 >  **2. Bug Report <br>**
 >  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered <br><br>
->  **3. SQL <br>**
+>  **3. UI Automation: Chrome Login process<br>**
+>   &nbsp;&nbsp; &nbsp;Selenium Python Script for Chrome Login Automation <br><br> 
+>  **4. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;SQL queries and their results <br><br>
 
 ## 1. Test Cases: 
@@ -32,7 +34,7 @@
 
 ## 3. UI Automation: Chrome Login 
 
- #### 1) Selenium Webdriver and Visual Studio Code were Integrated to automate the Signup process.
+ #### 1) Selenium Webdriver and Visual Studio Code were Integrated to automate the Login process.
  #### 2) The script was wirtten with the Python programming language.
  #### 3) ID and Password were created soley for the purpose of testing. <br><br>
 

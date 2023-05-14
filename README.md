@@ -11,27 +11,32 @@
 
 ## 1. Test Cases: 
 
-#### 1) The 'Starbucks_SignUp' test cases were personally designed in May 2023.
-#### 2) The sole purpose of their creation is to include them in my project portfolio.
-#### 3) The E2E test contains ten test cases to demonstrate the sign-up process for the Starbucks homepage.
+#### 1) The 'Starbucks_SignUp' test cases were personally designed on May.09, 2023.
+#### 2) The sole purpose of creating them is to include them in my project portfolio.
+#### 3) The E2E test contains ten test cases taht demonstrate the sign-up process for the Starbucks homepage.
 #### 4) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 5) The test cases are written in plain English using the Gherkin language.
-#### 6) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br><br>
+#### 6) Starbucks, one of the most popular brands in the U.S., was selected as the subject of this project. <br><br>
 
 
 ## 2. Bug Report
  
- #### 1) The bug was found during the sign-up test on the Starbucks website. May.09.2023.
- #### 2) The bug report was designed as a webpage format using HTML and CSS.
- #### 3) The bug report was designed to resemble the Jira bug report page.
+ #### 1) The bug was found during the sign-up test on the Starbucks website on May.09, 2023.
+ #### 2) The bug report is designed as a webpage format using HTML and CSS.
+ #### 3) The bug report is designed to resemble the Jira bug report page.
  #### 4) The bug's priority is 'lowest' and the bug's severity is 'low'. 
- #### 5) Major features including dropdown menu, checkbox, Z-index, and alert window are implemented.
- #### 6) To view the bug report in a web page format click [this link](https://yuhwauniverse.github.io/webhostingpage/).
- #### 7) Or, click on the 'Download Raw File' button on the upper right menu bar in the Bug Report code page.<br><br>
+ #### 5) Major features, including dropdown menu, checkbox, Z-index, and alert window are implemented.
+ #### 6) To view the bug report in a web page format, click [this link](https://yuhwauniverse.github.io/webhostingpage/).
+ #### 7) Or, click on the 'Download Raw File' button on the upper-right menu bar in the Bug Report code page.<br><br>
 
 
+## 3. UI Automation: Chrome Login 
 
-## 3. SQL Queries and their Results 
+ #### 1) Selenium Webdriver and Visual Studio Code were Integrated to automate the Signup process.
+ #### 2) The script was wirtten with the Python programming language.
+ #### 3) ID and Password were created soley for the purpose of testing. <br><br>
+
+## 4. SQL Queries and their Results 
  
  #### 1) The data model contains 5 tables: Supplier, Customer, Product, Order item, Order.
  #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.

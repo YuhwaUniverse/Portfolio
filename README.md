@@ -10,6 +10,8 @@
 >   &nbsp;&nbsp; &nbsp;Selenium Python Script for Chrome Login Automation <br><br> 
 >  **4. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;SQL queries and their results <br><br>
+>  **5. Test Plan for Nespresso Coffee Machine <br>**
+>  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi(EN550S) <br><br>
 
 ## 1. Test Cases: 
 
@@ -46,5 +48,12 @@
  #### 4) These SQL queries were designed by editing and applying the problems from the database source webpage. 
  #### 5) The sole purpose of this SQL file is to show the basic skills of RDBM using SQL queries.
  #### 6) Entity Relationship Diagram. <br>
- <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/> <br>
+ <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/> <br> <br>
+ 
+## 5. Test Plan for Nespresso Coffee Machine
+
+ #### 1) Test Product is Nespresso DeLonghi, EN550S.
+ #### 2) The machine was chosed based on personal ownership and usage.
+ #### 3) The object of this test plan is to verify the functionality, quality, and usability of the Nespresso coffee machine in the U.S.
+ #### 4) Testing types: Functionality test, Compatibility test, Performance test, Safety test, Quality test, and Usability test. <br><br>
  

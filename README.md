@@ -9,7 +9,7 @@
 >  **3. UI Automation<br>**
 >   &nbsp;&nbsp; &nbsp;Selenium Python Script for Chrome Login Automation <br><br> 
 >  **4. SQL <br>**
->  &nbsp;&nbsp; &nbsp;SQL queries and their results <br><br>
+>  &nbsp;&nbsp; &nbsp;DML and Table Join queries and their results <br><br>
 >  **5. Test Plan for Nespresso Coffee Machine <br>**
 >  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi(EN550S) <br><br>
 

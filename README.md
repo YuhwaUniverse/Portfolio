@@ -15,7 +15,7 @@
 
 ## 1. Test Cases: 
 
-#### 1) The 'Starbucks_SignUp' test cases were personally designed on May.09, 2023.
+#### 1) The 'Starbucks_SignUp' test cases were personally designed on May.09. 2023.
 #### 2) The sole purpose of creating them is to include them in my project portfolio.
 #### 3) The E2E test contains ten test cases taht demonstrate the sign-up process for the Starbucks homepage.
 #### 4) The test cases include feature, scenario outlines, conditions, and examples. 
@@ -25,7 +25,7 @@
 
 ## 2. Bug Report
  
- #### 1) The bug was found during the sign-up test on the Starbucks website on May.09, 2023.
+ #### 1) The bug was found during the sign-up test on the Starbucks website on May.09. 2023.
  #### 2) The bug report is designed as a webpage format using HTML and CSS.
  #### 3) The bug report is designed to resemble the Jira bug report page.
  #### 4) The bug's priority is 'lowest' and the bug's severity is 'low'. 

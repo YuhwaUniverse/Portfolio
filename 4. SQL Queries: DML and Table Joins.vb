@@ -151,8 +151,8 @@ FROM Customer ;
 # List all Product Name with Company Name and Unit Price 
 
 SELECT SupplierID, ProductName, CompanyName, UnitPrice 
-FROM [Product] P
-Inner JOIN [Supplier] S ON P.SupplierID = S.Id ;
+FROM Product P
+Inner JOIN Supplier S ON P.SupplierID = S.Id ;
 
 
 | SUPPLIERID | PRODUCTNAME                     | COMPANYNAME                        | UNITPRICE |
@@ -189,7 +189,7 @@ Inner JOIN [Supplier] S ON P.SupplierID = S.Id ;
 
 SELECT FirstName, LastName, Country, OrderDate 
 FROM Customer C 
-LEFT JOIN [Order] O ON O.CustomerId = C.Id ;
+LEFT JOIN Order O ON O.CustomerId = C.Id ;
 
 | FIRSTNAME | LASTNAME | COUNTRY | ORDERDATE             |
 |-----------|----------|---------|-----------------------|
@@ -216,8 +216,8 @@ LEFT JOIN [Order] O ON O.CustomerId = C.Id ;
 
 SELECT C.FirstName, C.LastName, C.City AS CustomerCity, 
        S.City AS SupplierCity, S.CompanyName
-FROM [Customer] C 
-FULL JOIN [Supplier] S ON C.City = S.City
+FROM Customer C 
+FULL JOIN Supplier S ON C.City = S.City
 ORDER BY C.City, S.City ;
 
 | FIRSTNAME | LASTNAME | CUSTOMERCITY | SUPPLIERCITY | COMPANYNAME                            |

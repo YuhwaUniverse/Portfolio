@@ -53,6 +53,17 @@ WHERE CompanyName = 'Tokyo Traders' ;
 | ID | COMPANYNAME   | CONTACTNAME  |  CITY   | COUNTRY |
 |----|---------------|--------------|---------|---------|
 | 4  | Tokyo Traders | Yoshi Nagase |  Toyko  | Japan   |
+    
+    
+# Discontinue the product with Id = 16.
+
+UPDATE product
+SET IsDiscontinued = 1 
+WHERE ID = 16 ;
+
+| ID | PRODUCTNAME | SUPPLIERID | UNITPRICE | PACKAGE          | ISDISCONTINUED |
+|----|-------------|------------|-----------|------------------|----------------|
+| 16 | Pavlova     | 7          | NULL      | 32 - 500 g boxes | 1              |
 
 
 # Add new customer Jane Doe to the database. 
@@ -70,7 +81,7 @@ VALUES ('Jane', 'Doe', 'Nevada', 'USA', '1-725-111-1111') ;
 Delete Product
 WHERE unitprice > 60 ;
 
-Message: 1 row(s) is affected 
+       Message: 1 row(s) is affected ( 1 row is deleted)
 
 
 # List all Products over than or equal to $500.
@@ -88,7 +99,7 @@ WHERE UnitPrice >= 500 ;
 | 6  | Grandma's Boysenberry Spread | 3          | 561.01    | 12 - 8 oz jars      | 0              |
 
 
- # Get the total number of quality of Order Items 
+# Get the total number of quality of Order Items 
 
 SELECT SUM(Quantity) AS 'Total Quantity of Order_Items'
 FROM Orderitem ;
@@ -131,6 +142,7 @@ FROM Customer ;
 | NUMBER |
 |--------|
 | 6      |
+
 
 
 

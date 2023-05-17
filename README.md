@@ -54,6 +54,5 @@
 
  #### 1) Test Product is Nespresso DeLonghi, EN550S.
  #### 2) The machine was chosed based on personal ownership and usage.
- #### 3) The object of this test plan is to verify the functionality, quality, and usability of the Nespresso coffee machine in the U.S.
- #### 4) Testing types: Functionality test, Compatibility test, Performance test, Safety test, Quality test, and Usability test. <br><br>
+ #### 3) The object of this test plan is to verify the Functionality, Compatibility, Performance, Safety, Quality, and Usability of the Nespresso coffee machine in the U.S. <br><br>
  

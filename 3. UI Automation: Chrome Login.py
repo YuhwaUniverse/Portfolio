@@ -1,3 +1,7 @@
+# This script was written in May 2023.
+# If the script is not working, you can try increasing the time sleep to give more time for the elements to load.
+# However, if there are any changes in the elements' IDs, XPATHs, or classes due to Chrome updates or other reasons, you may need to modify those parts accordingly.
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time

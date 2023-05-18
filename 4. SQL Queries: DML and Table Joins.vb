@@ -143,8 +143,17 @@ FROM Customer ;
 |--------|
 | 6      |
 
+# Calculate the total sales in 2013.
 
+SELECT AVG(TotalAmount) AS 'Average Sales 2013'
+FROM [Order]
+WHERE YEAR(OrderDate) = 2013
 
+| Average Sales 2013 |
+|--------------------|
+| 1620.356740        |                                                            
+                    
+                                                            
 
 <!-- Table Joins-->
 

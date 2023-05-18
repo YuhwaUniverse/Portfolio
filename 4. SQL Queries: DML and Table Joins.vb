@@ -189,7 +189,7 @@ Inner JOIN Supplier S ON P.SupplierID = S.Id ;
 
 SELECT FirstName, LastName, Country, OrderDate 
 FROM Customer C 
-LEFT JOIN Order O ON O.CustomerId = C.Id ;
+LEFT JOIN [Order] O ON O.CustomerId = C.Id ;
 
 | FIRSTNAME | LASTNAME | COUNTRY | ORDERDATE             |
 |-----------|----------|---------|-----------------------|

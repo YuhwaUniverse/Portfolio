@@ -5,7 +5,7 @@
 
 <!-- DML commands-->
 
-# List all Supplier in the France, India, and Japan, and ordered by Country, then by ID
+# List all Supplier in the France, Germany, and USA, and ordered by Country, then by ID
 
 SELECT Id, CompanyName, ContactName, City, Country
 FROM Supplier
@@ -52,7 +52,7 @@ WHERE CompanyName = 'Tokyo Traders' ;
 
 | ID | COMPANYNAME   | CONTACTNAME  |  CITY   | COUNTRY |
 |----|---------------|--------------|---------|---------|
-| 4  | Tokyo Traders | Yoshi Nagase |  Toyko  | Japan   |
+| 4  | Tokyo Traders | Yoshi Nagase |  Toykyo  | Japan   |
     
     
 # Discontinue the product with Id = 16.

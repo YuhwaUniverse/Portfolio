@@ -5,7 +5,7 @@
 
 <!-- DML commands-->
 
-# List all Supplier in the France, Germany, and USA, and ordered by Country, then by ID
+# List all Supplier in the France, Germany, and USA, and ordered by Country, then by ID.
 
 SELECT Id, CompanyName, ContactName, City, Country
 FROM Supplier
@@ -33,7 +33,7 @@ ORDER BY Country ASC, ID ASC ;
 
 # For Supplier Tokyo Traders change the city from Oslo to Tokyo.
 
-(1) Check the current city of the Company: Tokyo Traders 
+(1) Check the current city of the Company: Tokyo Traders. 
 
 Select ID, CompanyName, City, Country
 From Supplier 
@@ -44,7 +44,7 @@ Where CompanyName= 'Tokyo Traders';
 |----|---------------|--------------|------|---------|
 | 4  | Tokyo Traders | Yoshi Nagase | Oslo | Japan   |
 
-(2) Update /Edit the city of the company from Oslo to Tokyo 
+(2) Update /Edit the city of the company from Oslo to Tokyo. 
 
 UPDATE Supplier
 SET City = 'Tokyo'
@@ -99,7 +99,7 @@ WHERE UnitPrice >= 500 ;
 | 6  | Grandma's Boysenberry Spread | 3          | 561.01    | 12 - 8 oz jars      | 0              |
 
 
-# Get the total number of quality of Order Items 
+# Get the total number of quality of Order Items. 
 
 SELECT SUM(Quantity) AS 'Total Quantity of Order_Items'
 FROM Orderitem ;
@@ -109,7 +109,7 @@ FROM Orderitem ;
 | 50828                          |
 
 
-# Get the total number of Suppliers 
+# Get the total number of Suppliers. 
 
 SELECT COUNT(Id) AS 'Supplier Count'
 FROM Supplier ;
@@ -151,13 +151,24 @@ WHERE YEAR(OrderDate) = 2013
 
 | Average Sales 2013 |
 |--------------------|
-| 1620.356740        |                                                            
-                    
+| 1620.356740        |            
                                                             
+
+# Find the last order date in 2013.
+
+SELECT MIN(OrderDate) AS 'First [Order] Date'
+FROM [Order]
+WHERE YEAR(OrderDate) = 2013
+                    
+| FIRST [ORDER] DATE   |
+|----------------------|
+| 1/1/2013 12:00:00 AM |    
+                                                                
+                                                                
 
 <!-- Table Joins-->
 
-# List all Product Name with Company Name and Unit Price 
+# List all Product Name with Company Name and Unit Price.
 
 SELECT SupplierID, ProductName, CompanyName, UnitPrice 
 FROM Product P
@@ -194,7 +205,7 @@ Inner JOIN Supplier S ON P.SupplierID = S.Id ;
  ...
 
 
-# Match all Customers with Order Date 
+# Match all Customers with Order Date. 
 
 SELECT FirstName, LastName, Country, OrderDate 
 FROM Customer C 
@@ -221,7 +232,7 @@ LEFT JOIN [Order] O ON O.CustomerId = C.Id ;
 | Bertrand  | Bertrand | india   | NULL                  |
 
 
-# Match all customers and suppliers by City 
+# Match all customers and suppliers by City. 
 
 SELECT C.FirstName, C.LastName, C.City AS CustomerCity, 
        S.City AS SupplierCity, S.CompanyName

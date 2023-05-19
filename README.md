@@ -1,6 +1,6 @@
 # Portfoilo 
 
- #### This portfolio is designed to demonstrate my possibilities and capabilities as an entry-level software QA tester <br><br>
+ #### This portfolio is designed to demonstrate my possibilities and capabilities as an entry-level software QA test engineer. <br><br>
  
 >  **1. Test Cases<br>**
 >  &nbsp;&nbsp; &nbsp;Sing up for the Starbucks homepage <br><br>

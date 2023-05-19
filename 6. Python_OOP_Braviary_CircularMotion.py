@@ -34,7 +34,7 @@ radius = min(center_x, center_y) - IMAGE_WIDTH // 2
 angle = 0
 angle_increment = 0.7 
 
-# Game loop
+# Motion loop
 running = True
 while running:
     for event in pygame.event.get():
@@ -56,3 +56,4 @@ while running:
 
 
 pygame.quit()
+

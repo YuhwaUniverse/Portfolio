@@ -12,7 +12,7 @@ url = 'http://google.com'
 driver.get(url)
 
 
-# Chrome Login
+# Chrome Login with valid email address and password 
 
 elm = driver.find_element(By.XPATH, '//*[@id="gb"]/div/div[2]/a/span')
 elm.click()
@@ -37,3 +37,5 @@ next_button.click()
 time.sleep(3)
 
 driver.quit()
+
+

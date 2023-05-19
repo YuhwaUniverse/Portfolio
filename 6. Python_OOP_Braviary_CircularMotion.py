@@ -1,6 +1,8 @@
 
-# Braviary, a Flying type Pokémon, flies in a circular path.
-# 
+'''
+This script was written to showcase OOP by representing one of my favorite Pokémon as an object. 
+Braviary, a Flying-type Pokemon, flies in a circular path. 
+'''
 
 
 import pygame
@@ -47,7 +49,7 @@ pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Braviary Flying")
 
-braviary = Braviary(SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2, min(SCREEN_WIDTH, SCREEN_HEIGHT) - IMAGE_WIDTH // 2, 0.7)
+braviary = Braviary(SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2, min(SCREEN_WIDTH, SCREEN_HEIGHT) // 2 - IMAGE_WIDTH // 2, 0.7)
 
 running = True
 while running:
@@ -64,5 +66,4 @@ while running:
     pygame.time.delay(10)
 
 pygame.quit()
-
 

@@ -62,9 +62,12 @@
  
  ## 6. Python OOP:  
   
-  #### 1) Braviary, a Flying-type Pokemon, flies in a circular path. 
-  #### 2) The reason Braviary was chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.
+  #### 1) This script was written to showcase OOP by representing one of my favorite Pokémon as an object. 
+  #### 2) Braviary, a Flying-type Pokemon, flies in a circular path. 
   #### 3) Image source is public pokemon homepage.
+  #### 4) The reason Braviary was chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.
+  
+  
   
   
   

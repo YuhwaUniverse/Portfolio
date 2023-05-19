@@ -1,4 +1,7 @@
 
+# Braviary, a Flying type Pokémon, flies in a circular path.
+# 
+
 
 import pygame
 import requests
@@ -12,48 +15,54 @@ IMAGE_HEIGHT = 200
 
 image_url = "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png"
 
-# Download the image and save it locally
-response = requests.get(image_url)
-image_data = response.content
-image_path = "braviary.jpg"  
-with open(image_path, "wb") as file:
-    file.write(image_data)
+class Braviary:
+    def __init__(self, center_x, center_y, radius, angle_increment):
+        self.center_x = center_x
+        self.center_y = center_y
+        self.radius = radius
+        self.angle = 0
+        self.angle_increment = angle_increment
+
+        # Download the image and save it locally
+        response = requests.get(image_url)
+        image_data = response.content
+        image_path = "braviary.jpg"  
+        with open(image_path, "wb") as file:
+            file.write(image_data)
+
+        self.image = pygame.image.load(image_path)
+        self.image = pygame.transform.scale(self.image, (IMAGE_WIDTH, IMAGE_HEIGHT))
+
+    def update_position(self):
+        braviary_x = self.center_x + math.cos(math.radians(self.angle)) * self.radius - IMAGE_WIDTH // 2
+        braviary_y = self.center_y + math.sin(math.radians(self.angle)) * self.radius - IMAGE_HEIGHT // 2
+        self.angle += self.angle_increment
+        return braviary_x, braviary_y
+
+    def display(self, screen, position):
+        screen.blit(self.image, position)
+
 
 pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Braviary Flying")
 
+braviary = Braviary(SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2, min(SCREEN_WIDTH, SCREEN_HEIGHT) - IMAGE_WIDTH // 2, 0.7)
 
-braviary_image = pygame.image.load(image_path)
-braviary_image = pygame.transform.scale(braviary_image, (IMAGE_WIDTH, IMAGE_HEIGHT))
-
-# Initial position of Braviary
-center_x = SCREEN_WIDTH // 2
-center_y = SCREEN_HEIGHT // 2
-radius = min(center_x, center_y) - IMAGE_WIDTH // 2
-angle = 0
-angle_increment = 0.7 
-
-# Motion loop
 running = True
 while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
 
- 
-    braviary_x = center_x + math.cos(math.radians(angle)) * radius - IMAGE_WIDTH // 2
-    braviary_y = center_y + math.sin(math.radians(angle)) * radius - IMAGE_HEIGHT // 2
-
-   
-    angle += angle_increment
     screen.fill((255, 255, 255))
-    screen.blit(braviary_image, (braviary_x, braviary_y))
 
+    braviary_position = braviary.update_position()
+    braviary.display(screen, braviary_position)
 
     pygame.display.flip()
     pygame.time.delay(10)
 
-
 pygame.quit()
+
 

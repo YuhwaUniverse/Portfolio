@@ -23,7 +23,7 @@ class Braviary:
         self.angle = 0
         self.angle_increment = angle_increment
 
-        # Download the image and save it locally
+        
         response = requests.get(image_url)
         image_data = response.content
         image_path = "braviary.jpg"  

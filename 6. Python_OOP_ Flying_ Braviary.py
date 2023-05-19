@@ -10,7 +10,7 @@ IMAGE_WIDTH = 200
 IMAGE_HEIGHT = 200
 
 # URL of the image
-image_url = "https://img.pokemondb.net/artwork/braviary.jpg"
+image_url = "https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png"
 
 # Download the image and save it locally
 response = requests.get(image_url)
@@ -33,6 +33,7 @@ center_x = SCREEN_WIDTH // 2
 center_y = SCREEN_HEIGHT // 2
 radius = min(center_x, center_y) - IMAGE_WIDTH // 2
 angle = 0
+angle_increment = 0.7  # Adjust the angle increment to control the speed of movement
 
 # Game loop
 running = True
@@ -46,7 +47,7 @@ while running:
     braviary_y = center_y + math.sin(math.radians(angle)) * radius - IMAGE_HEIGHT // 2
 
     # Increment the angle to make Braviary move along the circular path
-    angle += 1
+    angle += angle_increment
 
     # Clear the screen
     screen.fill((255, 255, 255))

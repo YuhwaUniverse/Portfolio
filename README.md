@@ -12,6 +12,9 @@
 >  &nbsp;&nbsp; &nbsp;DML and Table Join queries and their results <br><br>
 >  **5. Test Plan for Nespresso Coffee Machine <br>**
 >  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi(EN550S) <br><br>
+>  **6. Python OOP: Flying Braviary in a circular path <br>**
+>  &nbsp;&nbsp; &nbsp; Braviary, a Flying-type Pokemon, flies in a circular path
+
 
 ## 1. Test Cases: 
 
@@ -57,3 +60,11 @@
  #### 3) The machine was chosed based on personal ownership and usage. 
  #### 4) The sole purpose of creating them is to include them in my project portfolio.<br><br>
  
+ ## 6. Python OOP:  
+  
+  #### 1) Braviary, a Flying-type Pokemon, flies in a circular path. 
+  #### 2) The reason Braviary was chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.
+  #### 3) Image source is public pokemon homepage.
+  
+  
+  

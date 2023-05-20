@@ -5,7 +5,7 @@
 >  **1. Test Cases<br>**
 >  &nbsp;&nbsp; &nbsp;Sign up for the Starbucks homepage. Keywords: VS Code, Cucumber, Gherkin. <br><br>
 >  **2. Bug Report <br>**
->  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, css, bug, Jira <br><br>
+>  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, css, bug, Jira. <br><br>
 >  **3. UI Automation<br>**
 >   &nbsp;&nbsp; &nbsp;Selenium Python Script for Chrome Login Automation <br><br> 
 >  **4. SQL <br>**

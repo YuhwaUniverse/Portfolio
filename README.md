@@ -11,7 +11,7 @@
 >  **4. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;DML and Table Join queries and their results <br><br>
 >  **5. Test Plan for Nespresso Coffee Machine <br>**
->  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi(EN550S) <br><br>
+>  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi (EN550S) <br><br>
 >  **6. Python OOP: Flying bird in a circular path <br>**
 >  &nbsp;&nbsp; &nbsp; The Braviary, a Flying-type Pokémon, is utilized to update its position and display it on the screen, creating a flying motion in a circular path. <br><br>
 

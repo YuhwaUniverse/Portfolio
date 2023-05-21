@@ -22,7 +22,6 @@ class Braviary:
         self.radius = radius
         self.angle = 0
         self.angle_increment = angle_increment
-
         
         response = requests.get(image_url)
         image_data = response.content

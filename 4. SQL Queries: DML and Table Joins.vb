@@ -165,7 +165,31 @@ WHERE YEAR(OrderDate) = 2013
 | 1/1/2013 12:00:00 AM |    
                                                                 
                                                                 
+# List the number of suppliers in each country, sorted high to low.
 
+SELECT Country, COUNT(Id) AS Supplier
+FROM Supplier
+GROUP BY Country
+ORDER BY COUNT(Id) DESC
+                                                              
+| COUNTRY     | SUPPLIER |
+|-------------|----------|
+| USA         | 8        |
+| UK          | 3        |
+| France      | 3        |
+| Germany     | 3        |
+| Italy       | 2        |
+| Japan       | 2        |
+| Canada      | 2        |
+| Sweden      | 2        |
+| Australia   | 1        |
+| Denmark     | 1        |
+| Finland     | 1        |
+| Netherlands | 1        |
+| Nigeria     | 1        |
+| Singapore   | 1        |
+
+                                                                    
 <!-- Table Joins-->
 
 # List all Product Name with Company Name and Unit Price.

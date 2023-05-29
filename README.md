@@ -14,8 +14,8 @@
 >  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi (EN550S) <br><br>
 >  **6. Python OOP: Flying bird in a circular path <br>**
 >  &nbsp;&nbsp; &nbsp; The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
->  **7. Load Testing with Stepping Thread Group in JMeter: Implementation and Analysis <br>**
->   <br><br>
+>  **7. Load Testing with Stepping Thread Group in JMeter <br>**
+>  &nbsp;&nbsp; &nbsp; Implementation and Analysis. <br><br>
 
 
 ## 1. Test Cases: 

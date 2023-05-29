@@ -13,7 +13,9 @@
 >  **5. Test Plan for Nespresso Coffee Machine <br>**
 >  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi (EN550S) <br><br>
 >  **6. Python OOP: Flying bird in a circular path <br>**
->  &nbsp;&nbsp; &nbsp; The Braviary, a Flying-type Pokémon, is utilized to update its position and display it on the screen, creating a flying motion in a circular path. <br><br>
+>  &nbsp;&nbsp; &nbsp; The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
+>  **7. Load Testing with Stepping Thread Group in JMeter: Implementation and Analysis <br>**
+>   <br><br>
 
 
 ## 1. Test Cases: 
@@ -68,7 +70,15 @@
   #### 4) The reason Braviary has been chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.
   
   
-
+ ## 7. Load Testing with Stepping Thread Group in JMeter: Implementation and Analysis
+  
+  #### 1) This test was conducted using modern and realistic parameters to ensure that it did not cause any excessive load to the URL.
+  #### 2) The purpose of this test is to showcase the implementation of the Stepping Thread Group in JMeter, a powerful load testing feature. 
+  #### 3) This test aims to demonstrate the ability to gradually increase the number of threads over time, simulating realistic user behavior and load patterns.
+  #### 4) The test was conducted under controlled conditions and with a predefined set of test scenarios, which may not fully represent the actual user behavior or the variability of network conditions. 
+  
+  
+  
   
   
   

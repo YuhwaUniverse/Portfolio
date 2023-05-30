@@ -15,7 +15,7 @@
 >  **6. Python OOP: Flying bird in a circular path <br>**
 >  &nbsp;&nbsp; &nbsp;The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
 >  **7. Load Testing with Stepping Thread Group in JMeter <br>**
->  &nbsp;&nbsp; &nbsp;Implementation and Analysis. <br><br>
+>   <br><br>
 
 
 ## 1. Test Cases: 
@@ -70,13 +70,14 @@
   #### 4) The reason Braviary has been chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.
   
   
- ## 7. Load Testing with Stepping Thread Group in JMeter: Implementation and Analysis
+ ## 7. Load Testing with Stepping Thread Group in JMeter
   
-  #### 1) This test was conducted using modern and realistic parameters to ensure that it did not cause any excessive load to the URL.
-  #### 2) The purpose of this test is to showcase the implementation of the Stepping Thread Group in JMeter, a powerful load testing feature. 
-  #### 3) This test aims to demonstrate the ability to gradually increase the number of threads over time, simulating realistic user behavior and load patterns.
+  #### 1) This test was conducted using modern and realistic parameters to ensure that it did not cause any excessive load to the 3 searching platforms.
+  #### 2) The purpose of this report is to provide an overview of a load testing activity conducted using the Stepping Thread Group feature in Apache JMeter. 
+  #### 3) The primary focus of the report is to evaluate the load handling capabilities of three different searching platforms.
   #### 4) The test was conducted under controlled conditions and with a predefined set of test scenarios, which may not fully represent the actual user behavior or the variability of network conditions. 
-  
+
+
   
   
   

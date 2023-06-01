@@ -64,7 +64,7 @@
 
  #### 1) This report has been designed with the sole purpose of demonstrating my Postman API testing skills and is added to my GitHub Portfolio.
  #### 2) The main objective of this testing exercise is to validate the functionality of an API endpoint based on predefined user story requirements.
- #### 3) The test cases have been meticulously designed to cover different scenarios and acceptance criteria, aiming to ensure a seamless increase in play count for registered users.
+ #### 3) The test cases have been meticulously designed to cover different scenarios and acceptance criteria, aiming to ensure a seamless increase in play count for registered users.<br><br>
 
 
 ## 6. Test Plan for Nespresso Coffee Machine
@@ -72,7 +72,7 @@
  #### 1) Test Product is Nespresso DeLonghi, EN550S.
  #### 2) The object of this test plan is to verify the Functionality, Compatibility, Performance, Safety, Quality, and Usability of the Nespresso coffee machine in the U.S.
  #### 3) The machine has been chosen based on personal ownership and usage. 
- #### 4) The sole purpose of creating them is to include them in my project portfolio.<br><br>
+ #### 4) The sole purpose of creating them is to include them in my project portfolio. <br><br>
  
 
 ## 7. Load Testing with Stepping Thread Group in JMeter
@@ -80,7 +80,7 @@
   #### 1) This test was conducted using modern and realistic parameters to ensure that it did not cause any excessive load to the 3 searching platforms.
   #### 2) The purpose of this report is to provide an overview of a load testing activity conducted using the Stepping Thread Group feature in Apache JMeter. 
   #### 3) The primary focus of the report is to evaluate the load handling capabilities of three different searching platforms.
-  #### 4) The test was conducted under controlled conditions and with a predefined set of test scenarios, which may not fully represent the actual user behavior or the variability of network conditions. 
+  #### 4) The test was conducted under controlled conditions and with a predefined set of test scenarios, which may not fully represent the actual user behavior or the variability of network conditions. <br><br>
 
 
 ## 8. Python OOP  
@@ -88,7 +88,7 @@
   #### 1) This script has been written to showcase OOP by representing one of my favorite Pokémons as an object. 
   #### 2) The Braviary, a Flying-type Pokémon, is utilized to update its position and display it on the screen, creating a flying motion in a circular path. 
   #### 3) Image source is public pokemon homepage.
-  #### 4) The reason Braviary has been chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon. 
+  #### 4) The reason Braviary has been chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.  <br><br>
   
   
   

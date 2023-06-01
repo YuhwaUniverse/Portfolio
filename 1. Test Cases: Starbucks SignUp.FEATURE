@@ -1,7 +1,7 @@
-```
+'''
 Gherkin is used for creating clear and concise feature files  and to facilitates the seamless integration of Visual Studio Code and Cucumber, 
 enabling efficient collaboration and automated testing processes.
-```
+'''
 
 
 Feature: Sign up for Starbucks homepage

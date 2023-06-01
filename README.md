@@ -60,7 +60,7 @@
  <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/> <br> <br>
  
  
-## 5. Post API Test based on user story requirements 
+## 5. Postman API Endpoint Test based on user story requirements 
 
  #### 1) This report has been designed with the sole purpose of demonstrating my Postman API testing skills and is added to my GitHub Portfolio.
  #### 2) The main objective of this testing exercise is to validate the functionality of an API endpoint based on predefined user story requirements.

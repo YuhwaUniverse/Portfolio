@@ -88,10 +88,13 @@
   #### 1) This script has been written to showcase OOP by representing one of my favorite Pokémons as an object. 
   #### 2) The Braviary, a Flying-type Pokémon, is utilized to update its position and display it on the screen, creating a flying motion in a circular path. 
   #### 3) Image source is public pokemon homepage.
-  #### 4) The reason Braviary has been chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.  <br><br>
+  #### 4) The reason Braviary has been chosen is because it is the pet I have currently selected in the mobile game I am playing, Pokemon.  <br><br><br><br>
   
   
   
-  
+Ownership Disclaimer: <br>
+The contents presented in this portfolio are the original work of mine, created specifically for showcasing my entry-level skills and projects. <br>  
+While they may not be the most sophisticated projects, they represent my unique journey and dedication. <br>
+Thank you for understanding and respecting the personal nature of these endeavors. <br>
   
   

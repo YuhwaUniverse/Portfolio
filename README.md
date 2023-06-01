@@ -3,28 +3,32 @@
  #### This portfolio is designed to demonstrate my possibilities and capabilities as an entry-level software QA test engineer. <br><br>
  
 >  **1. Test Cases<br>**
->  &nbsp;&nbsp; &nbsp;Sign up for the Starbucks homepage. Keywords: VS Code, Cucumber, Gherkin. <br><br>
+>  &nbsp;&nbsp; &nbsp;:Sign up for the Starbucks homepage. <br>
+>  &nbsp;&nbsp; &nbsp;:Gherkin is used to facilitates the seamless integration of Visual Studio Code and Cucumber, enabling efficient collaboration and automated testing processes.<br><br>
 >  **2. Bug Report <br>**
 >  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, CSS, bug, Jira. <br><br>
 >  **3. UI Automation<br>**
 >   &nbsp;&nbsp; &nbsp;Selenium Python Script for Chrome Login Automation <br><br> 
 >  **4. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;DML and Table Join queries and their results <br><br>
->  **5. Test Plan for Nespresso Coffee Machine <br>**
+>  **5. Postman API Endpoint Test <br>**
+>  &nbsp;&nbsp; &nbsp;To validate the functionality of an API endpoint based on predefined user story requirements. <br><br>  
+>  **6. Test Plan for Nespresso Coffee Machine <br>**
 >  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi (EN550S) <br><br>
->  **6. Python OOP: Flying bird in a circular path <br>**
->  &nbsp;&nbsp; &nbsp;The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
 >  **7. Load Testing with Stepping Thread Group in JMeter <br>**
->   <br><br>
+>  &nbsp;&nbsp; &nbsp;To provide an overview of a load testing activity conducted using the Stepping Thread Group feature in Apache JMeter. <br><br>
+>  **8. Python OOP: Flying bird in a circular path <br>**
+>  &nbsp;&nbsp; &nbsp;The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
+>    <br><br>
 
 
 ## 1. Test Cases: 
 
 #### 1) The 'Starbucks_SignUp' test cases have been personally designed on May.09.2023.
 #### 2) The sole purpose of creating them is to include them in my project portfolio.
-#### 3) The E2E test contains ten test cases that demonstrate the sign-up process for the Starbucks homepage.
-#### 4) The test cases include feature, scenario outlines, conditions, and examples. 
-#### 5) The test cases are written in plain English using the Gherkin language.
+#### 3) Gherkin is used to facilitates the seamless integration of Visual Studio Code and Cucumber, enabling efficient collaboration and automated testing processes.
+#### 4) The E2E test contains ten test cases that demonstrate the sign-up process for the Starbucks homepage.
+#### 5) The test cases include feature, scenario outlines, conditions, and examples. 
 #### 6) Starbucks, one of the most popular brands in the U.S., is selected as the subject of this project. <br><br>
 
 

@@ -93,7 +93,7 @@
   
   
 Ownership Disclaimer: <br>
-The contents presented in this portfolio are the original work of mine, created specifically for showcasing my entry-level skills and projects. <br>  
+The contents presented in this portfolio are the original work of mine, created specifically for showcasing my entry-level skills and projects. <br>
 While they may not be the most sophisticated projects, they represent my unique journey and dedication. <br>
 Thank you for understanding and respecting the personal nature of these endeavors. <br>
   

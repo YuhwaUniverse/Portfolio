@@ -1,3 +1,8 @@
+```
+Gherkin is used for creating clear and concise feature files  and to facilitates the seamless integration of Visual Studio Code and Cucumber, 
+enabling efficient collaboration and automated testing processes.
+```
+
 
 Feature: Sign up for Starbucks homepage
          As a user, i want to sign up for the Starbucks homepage (https://www.starbucks.com/)  

@@ -3,22 +3,22 @@
  #### This portfolio is designed to demonstrate my possibilities and capabilities as an entry-level software QA test engineer. <br><br>
  
 >  **1. Test Cases<br>**
->  &nbsp;&nbsp; &nbsp;:Sign up for the Starbucks homepage. <br>
->  &nbsp;&nbsp; &nbsp;:Gherkin is used to facilitates the seamless integration of Visual Studio Code and Cucumber, enabling efficient collaboration and automated testing processes.<br><br>
+>  &nbsp;&nbsp; &nbsp;: Sign up for the Starbucks homepage. <br>
+>  &nbsp;&nbsp; &nbsp;: Gherkin is used to facilitates the seamless integration of Visual Studio Code and Cucumber, enabling efficient collaboration and automated testing processes.<br><br>
 >  **2. Bug Report <br>**
->  &nbsp;&nbsp; &nbsp;Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, CSS, bug, Jira. <br><br>
+>  &nbsp;&nbsp; &nbsp;: Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, CSS, bug, Jira. <br><br>
 >  **3. UI Automation<br>**
->   &nbsp;&nbsp; &nbsp;Selenium Python Script for Chrome Login Automation <br><br> 
+>   &nbsp;&nbsp; &nbsp;: Selenium Python Script for Chrome Login Automation <br><br> 
 >  **4. SQL <br>**
->  &nbsp;&nbsp; &nbsp;DML and Table Join queries and their results <br><br>
+>  &nbsp;&nbsp; &nbsp;: DML and Table Join queries and their results <br><br>
 >  **5. Postman API Endpoint Test <br>**
->  &nbsp;&nbsp; &nbsp;To validate the functionality of an API endpoint based on predefined user story requirements. <br><br>  
+>  &nbsp;&nbsp; &nbsp;: To validate the functionality of an API endpoint based on predefined user story requirements. <br><br>  
 >  **6. Test Plan for Nespresso Coffee Machine <br>**
->  &nbsp;&nbsp; &nbsp;Nespresso DeLonghi (EN550S) <br><br>
+>  &nbsp;&nbsp; &nbsp;: Nespresso DeLonghi (EN550S) <br><br>
 >  **7. Load Testing with Stepping Thread Group in JMeter <br>**
->  &nbsp;&nbsp; &nbsp;To provide an overview of a load testing activity conducted using the Stepping Thread Group feature in Apache JMeter. <br><br>
+>  &nbsp;&nbsp; &nbsp;: To provide an overview of a load testing activity conducted using the Stepping Thread Group feature in Apache JMeter. <br><br>
 >  **8. Python OOP: Flying bird in a circular path <br>**
->  &nbsp;&nbsp; &nbsp;The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
+>  &nbsp;&nbsp; &nbsp;: The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
 >    <br><br>
 
 

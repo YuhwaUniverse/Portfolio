@@ -43,9 +43,6 @@ next_button = driver.find_element(By.ID, "passwordNext")
 next_button.click()
 
 
-# Wait for 3 seconds 
-time.sleep(3)
-
 # Find and click the 'Gmail' button
 gmail_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, 'Gmail')))
 gmail_button.click()

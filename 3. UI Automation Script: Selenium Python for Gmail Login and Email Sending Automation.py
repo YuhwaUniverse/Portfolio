@@ -73,7 +73,7 @@ message_box.send_keys('Successful ~!! ')
 time.sleep(3)
 
 # Find and Click 'Send' button
-send_button = driver.find_element(By.XPATH, '//div[@aria-label="Send ‪(Ctrl-Enter)‬"]')
+send_button = driver.find_element(By.CSS_SELECTOR, 'div[role="button"][aria-label^="Send"]')
 send_button.click()
 
 

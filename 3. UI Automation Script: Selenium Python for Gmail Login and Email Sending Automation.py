@@ -18,8 +18,8 @@ driver.get(url)
 
 # Chrome Login
 
-elm = driver.find_element(By.XPATH, '//*[@id="gb"]/div/div[2]/a/span')
-elm.click()
+gmail_button = driver.find_element(By.XPATH, '//*[@id="gb"]/div/div[2]/a/span')
+gmail_button.click()
 
 gmail_input = driver.find_element(By.CSS_SELECTOR, 'input[type="email"]')
 gmail_input.send_keys('testautomation13579')

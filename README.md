@@ -7,8 +7,8 @@
 >  &nbsp;&nbsp; &nbsp;: Gherkin is used to facilitates the seamless integration of Visual Studio Code and Cucumber, enabling efficient collaboration and automated testing processes.<br><br>
 >  **2. Bug Report <br>**
 >  &nbsp;&nbsp; &nbsp;: Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, CSS, bug, Jira. <br><br>
->  **3. UI Automation<br>**
->   &nbsp;&nbsp; &nbsp;: Selenium Python Script for Chrome Login Automation <br><br> 
+>  **3. Pytest: Selenium UI Automation Script <br>**
+>   &nbsp;&nbsp; &nbsp;: a class-based structured Python Automation Script for Gmail Login and Sending Process<br><br> 
 >  **4. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;: DML and Table Join queries and their results <br><br>
 >  **5. Postman API Endpoint Test <br>**
@@ -42,11 +42,12 @@
  #### 6) To view the bug report in a web page format, click [this link](https://yuhwauniverse.github.io/webhostingpage/).
  #### 7) Or, click on the 'Download Raw File' button on the upper-right menu bar in the Bug Report code page.<br><br>
 
-## 3. UI Automation: Chrome Login 
+## 3. Pytest: Selenium UI Automation Script for Gmail login and email sending processes.
 
- #### 1) Selenium Webdriver and Visual Studio Code have been integrated to automate the Login process.
- #### 2) The script is written with the Python programming language.
- #### 3) ID and Password are created soley for the purpose of testing.  <br><br>
+ #### 1) The script utilizes the Selenium WebDriver and Visual Studio Code integration to automate the Gmail login and email sending process.
+ #### 2) It follows a class-based structured approach, providing a well-organized and reusable automation script for efficient testing.
+ #### 3) The HTML report shows a status of '1 passed in 37.76s' ( https://yuhwauniverse.github.io/Reporthtmlpage/ )
+ #### 4) The Gmail ID and password used in the script are specifically created for the purpose of automation testing, ensuring the security of personal accounts. <br><br>
 
 
 ## 4. SQL Queries and their Results 

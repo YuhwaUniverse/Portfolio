@@ -3,7 +3,7 @@ Pytest UI Automation Script with Visual Studio Code and Selenium for Gmail Login
 Status of Html Report is '1 passed in 37.76s'
 Link to view the Html Report in a webpage format : 
 
-This pytest script was written in May and Upodated in June 2023.
+This pytest script was written in May and upodated in June 2023.
 If the script is not working, you can try increasing the time sleep to give more time for the elements to load.
 However, if there are any changes in the elements' IDs, XPATHs, or classes due to Chrome updates or other reasons, you may need to modify those parts accordingly.
 

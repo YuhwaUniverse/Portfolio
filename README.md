@@ -7,7 +7,7 @@
 >  &nbsp;&nbsp; &nbsp;: Gherkin is used to facilitates the seamless integration of Visual Studio Code and Cucumber, enabling efficient collaboration and automated testing processes.<br><br>
 >  **2. Bug Report <br>**
 >  &nbsp;&nbsp; &nbsp;: Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, CSS, bug, Jira. <br><br>
->  **3. Pytest: Selenium UI Automation Script <br>**
+>  **3. Pytest_ Selenium UI Automation Script <br>**
 >   &nbsp;&nbsp; &nbsp;: A class-based structured Python Script for automated Gmail login and sending process.<br><br> 
 >  **4. SQL <br>**
 >  &nbsp;&nbsp; &nbsp;: DML and Table Join queries and their results <br><br>

@@ -7,22 +7,24 @@
 >  &nbsp;&nbsp; &nbsp;: Gherkin is used to facilitates the seamless integration of Visual Studio Code and Cucumber, enabling efficient collaboration and automated testing processes.<br><br>
 >  **2. Bug Report <br>**
 >  &nbsp;&nbsp; &nbsp;: Starbucks Homepage | Sign Up | Error message appears only under the first name field when an invalid last name is entered. Keywords: html, CSS, bug, Jira. <br><br>
->  **3. Pytest_ Selenium UI Automation Script <br>**
+>  **3. Pytest: Selenium UI Automation Script <br>**
 >   &nbsp;&nbsp; &nbsp;: A class-based structured Python Script for automated Gmail login and sending process.<br><br> 
->  **4. SQL <br>**
->  &nbsp;&nbsp; &nbsp;: DML and Table Join queries and their results <br><br>
+>  **4. JavaScript: Selenium UI Automation <br>**
+>   &nbsp;&nbsp; &nbsp;: This JavaScript script is designed for running and debugging the automated process of logging into Gmail and sending emails.<br><br>  
 >  **5. Postman API Endpoint Test <br>**
 >  &nbsp;&nbsp; &nbsp;: To validate the functionality of an API endpoint based on predefined user story requirements. <br><br>  
 >  **6. Test Plan for Nespresso Coffee Machine <br>**
 >  &nbsp;&nbsp; &nbsp;: Nespresso DeLonghi (EN550S) <br><br>
 >  **7. Load Testing with Stepping Thread Group in JMeter <br>**
 >  &nbsp;&nbsp; &nbsp;: To provide an overview of a load testing activity conducted using the Stepping Thread Group feature in Apache JMeter. <br><br>
->  **8. Python OOP: Flying bird in a circular path <br>**
+>  **8. SQL <br>**
+>  &nbsp;&nbsp; &nbsp;: DML and Table Join queries and their results <br><br>
+>  **9. Python OOP: Flying bird in a circular path <br>**
 >  &nbsp;&nbsp; &nbsp;: The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
 >    <br><br>
 
 
-## 1. Test Cases: 
+## 1. Test Cases 
 
 #### 1) The 'Starbucks_SignUp' test cases have been personally designed on May.09.2023.
 #### 2) The sole purpose of creating them is to include them in my project portfolio.
@@ -42,7 +44,7 @@
  #### 6) To view the bug report in a web page format, click [this link](https://yuhwauniverse.github.io/webhostingpage/).
  #### 7) Or, click on the 'Download Raw File' button on the upper-right menu bar in the Bug Report code page.<br><br>
 
-## 3. Pytest: Selenium UI Automation Script for Gmail login and email sending processes.
+## 3. Pytest: Selenium UI Automation Script for Gmail login and email sending processes
 
  #### 1) The script utilizes the Selenium WebDriver and Visual Studio Code integration to automate the Gmail login and email sending process.
  #### 2) It follows a class-based structured approach, providing a well-organized and reusable automation script for efficient testing.
@@ -50,16 +52,12 @@
  #### 4) The Gmail ID and password used in the script are specifically created for the purpose of automation testing, ensuring the security of personal accounts. <br><br>
 
 
-## 4. SQL Queries and their Results 
- 
- #### 1) The data model contains 5 tables: Supplier, Customer, Product, Order item, Order.
- #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
- #### 3) DML(SELECT, INSERT, UPDATE, DELETE) and Table Join queries have been performed.
- #### 4) These SQL queries are designed by editing and applying the problems from the database source webpage. 
- #### 5) The sole purpose of this SQL file is to show the basic skills of RDBM using SQL queries.
- #### 6) Entity Relationship Diagram. <br>
- <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/> <br> <br>
- 
+## 4. JavaScript: Selenium UI Automation for Gmail login and email sending processes
+
+ #### 1) This JavaScript script is designed for running and debugging the automated process of logging into Gmail and sending emails.
+ #### 2) The script utilizes the Selenium WebDriver and Visual Studio Code integration to automate the Gmail login and email sending process.
+ #### 3) The Results shows 'Message sent successfully' PASS.
+ #### 4) The Gmail ID and password used in the script are specifically created for the purpose of automation testing, ensuring the security of personal accounts. <br><br>
  
 ## 5. Postman API Endpoint Test based on user story requirements 
 
@@ -84,7 +82,17 @@
   #### 4) The test was conducted under controlled conditions and with a predefined set of test scenarios, which may not fully represent the actual user behavior or the variability of network conditions. <br><br>
 
 
-## 8. Python OOP  
+## 8. SQL Queries and their Results 
+ 
+ #### 1) The data model contains 5 tables: Supplier, Customer, Product, Order item, Order.
+ #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
+ #### 3) DML(SELECT, INSERT, UPDATE, DELETE) and Table Join queries have been performed.
+ #### 4) These SQL queries are designed by editing and applying the problems from the database source webpage. 
+ #### 5) The sole purpose of this SQL file is to show the basic skills of RDBM using SQL queries.
+ #### 6) Entity Relationship Diagram. <br>
+ <Img width="40%" src="https://user-images.githubusercontent.com/132421498/237453288-4ff5abe8-ea3e-4f6c-b9f2-c537ce425e6e.jpg"/> <br> <br>
+ 
+ ## 9. Python OOP  
   
   #### 1) This script has been written to showcase OOP by representing one of my favorite Pokémons as an object. 
   #### 2) The Braviary, a Flying-type Pokémon, is utilized to update its position and display it on the screen, creating a flying motion in a circular path. 

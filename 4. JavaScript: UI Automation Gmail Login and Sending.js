@@ -1,6 +1,11 @@
 /*
 This is a Gmail UI Automation Script to Run and Debug. 
 The script utilizes the Selenium WebDriver and Visual Studio Code integration to automate the Gmail login and email sending process.
+The Results shows 'Message sent successfully' PASS.
+
+This pytest script was written in June 2023.
+If the script is not working, you can try increasing the time sleep to give more time for the elements to load.
+However, if there are any changes in the elements' IDs, XPATHs, or classes due to Chrome updates or other reasons, you may need to modify those parts accordingly.
 */
 
 const { Builder, By, Key, until } = require('selenium-webdriver');
@@ -78,4 +83,6 @@ async function test_send_gmail() {
 }
 
 test_send_gmail().catch(console.error);
+
+
 

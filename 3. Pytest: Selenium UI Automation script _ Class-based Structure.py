@@ -1,5 +1,5 @@
 '''
-Pytest: Selenium UI Automation 
+Pytest: Selenium UI Automation for Gmail login and sending. 
 It follows a class-based structured approach, providing a well-organized and reusable automation script for efficient testing.
 The HTML report shows a status of '1 passed in 37.76s'
 Link to view the Html Report in a webpage format: https://yuhwauniverse.github.io/Reporthtmlpage/

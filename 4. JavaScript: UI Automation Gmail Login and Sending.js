@@ -1,5 +1,5 @@
 /*
-This is a Gmail UI Automation JavaScript to Run and Debug. 
+This JavaScript script is designed for running and debugging the automated process of logging into Gmail and sending emails.
 The script utilizes the Selenium WebDriver and Visual Studio Code integration to automate the Gmail login and email sending process.
 The Results shows 'Message sent successfully' PASS.
 

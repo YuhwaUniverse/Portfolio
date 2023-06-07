@@ -10,9 +10,9 @@
 >  **3. Pytest: Selenium UI Automation Script <br>**
 >   &nbsp;&nbsp; &nbsp;: A class-based structured Python Script for automated Gmail login and sending process.<br><br> 
 >  **4. JavaScript: Selenium UI Automation <br>**
->   &nbsp;&nbsp; &nbsp;: This JavaScript script is designed for running and debugging the automated process of logging into Gmail and sending emails.<br><br>  
+>   &nbsp;&nbsp; &nbsp;: This JavaScript script is designed for running and debugging the automated process of logging into Gmail and sending emails.<br><br>
 >  **5. Postman API Endpoint Test <br>**
->  &nbsp;&nbsp; &nbsp;: To validate the functionality of an API endpoint based on predefined user story requirements. <br><br>  
+>  &nbsp;&nbsp; &nbsp;: To validate the functionality of an API endpoint based on predefined user story requirements. <br><br>
 >  **6. Test Plan for Nespresso Coffee Machine <br>**
 >  &nbsp;&nbsp; &nbsp;: Nespresso DeLonghi (EN550S) <br><br>
 >  **7. Load Testing with Stepping Thread Group in JMeter <br>**

@@ -18,7 +18,7 @@
 >  **7. Load Testing with Stepping Thread Group in JMeter <br>**
 >  &nbsp;&nbsp; &nbsp;: To provide an overview of a load testing activity conducted using the Stepping Thread Group feature in Apache JMeter. <br><br>
 >  **8. SQL <br>**
->  &nbsp;&nbsp; &nbsp;: DML and Table Join queries and their results <br><br>
+>  &nbsp;&nbsp; &nbsp;: DML, Table Join, Sub Queries and their results <br><br>
 >  **9. Python OOP: Flying bird in a circular path <br>**
 >  &nbsp;&nbsp; &nbsp;: The Braviary, a Flying-type Pokémon, is creating a flying motion in a circular path. <br><br>
 >    <br><br>
@@ -86,7 +86,7 @@
  
  #### 1) The data model contains 5 tables: Supplier, Customer, Product, Order item, Order.
  #### 2) The batabased is modern version of Northwind Traders and downloaded from dofactory.com.
- #### 3) DML(SELECT, INSERT, UPDATE, DELETE) and Table Join queries have been performed.
+ #### 3) DML(SELECT, INSERT, UPDATE, DELETE), Table Join, Sub queries have been performed.
  #### 4) These SQL queries are designed by editing and applying the problems from the database source webpage. 
  #### 5) The sole purpose of this SQL file is to show the basic skills of RDBM using SQL queries.
  #### 6) Entity Relationship Diagram. <br>

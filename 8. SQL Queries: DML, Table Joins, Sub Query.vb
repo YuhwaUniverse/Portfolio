@@ -286,3 +286,25 @@ ORDER BY C.City, S.City ;
 | Hernández | Hernández | palakol     | NULL          | NULL                                  |
 | Latimer   | Latimer   | palakol     | NULL          | NULL                                  |
 | McKenna   | McKenna   | palakol     | NULL          | NULL                                  |
+                                                                                        
+
+<!-- Sub Query-->
+
+# List Customer ID with TotalAmount of order over 1000 and UnitPrice over 30 
+
+SELECT CUSTOMERID, ORDERNUMBER, TOTALAMOUNT, ORDERDATE FROM [ORDER]
+WHERE totalamount > 1000 AND ID IN (SELECT UnitPrice FROM [ORDERITEM] WHERE UnitPrice > 30)
+ORDER BY CUSTOMERID;
+
+| CUSTOMERID | ORDERNUMBER | TOTALAMOUNT | ORDERDATE              |
+|------------|-------------|-------------|------------------------|
+| 5          | 542408      | 1488.80     | 8/12/2012 12:00:00 AM  |
+| 7          | 542427      | 1420.00     | 9/4/2012 12:00:00 AM   |
+| 28         | 542458      | 1168.00     | 10/14/2012 12:00:00 AM |
+| 46         | 542413      | 1414.80     | 8/16/2012 12:00:00 AM  |
+| 63         | 542415      | 2179.20     | 8/20/2012 12:00:00 AM  |
+| 63         | 542416      | 3016.00     | 8/21/2012 12:00:00 AM  |
+| 65         | 542476      | 1731.20     | 11/5/2012 12:00:00 AM  |
+| 76         | 542432      | 2708.80     | 9/10/2012 12:00:00 AM  |
+                                                                                                        
+                                                                                                        
